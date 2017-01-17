@@ -1,0 +1,6 @@
+[package]
+name = "computational-topology"
+version = "0.1.0"
+authors = ["Paul English <paul@onfrst.com>"]
+
+[dependencies]
